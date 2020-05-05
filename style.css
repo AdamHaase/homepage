@@ -1,0 +1,50 @@
+main{
+    background-color: #fefefe;
+}
+h2{
+    color: #033f7a;
+    font-family: monospace;
+    font-size: 22px;
+}
+
+h1{
+    font-size: 2em;
+    color: #000;
+    background-color: #afafaf3f;
+    border-radius: 15px;
+    text-align: center;
+    padding: 14px;
+    font-style: normal;
+    font-family: monospace;
+
+}
+
+.profil{
+   margin: auto;
+   height: 300px;
+   width: 300px;
+
+}
+h3, h4, h5, h6{
+    font-family: monospace;
+}
+.image{
+    border:1px;
+    margin: auto;
+    width: 600px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 18px;
+}
+nav{
+    text-align: center;
+}
+
+.iam{
+    text-align: center;
+    color: black;
+    padding: 15px;
+}
